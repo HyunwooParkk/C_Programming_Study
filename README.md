@@ -1,7 +1,7 @@
 # C_Programming_Study
 this is for C programming.
 
-#git commit 
+# git commit 
 1) git add *
 2) git status
 3) git commit -m "commit message"
